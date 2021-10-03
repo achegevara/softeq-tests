@@ -1,6 +1,6 @@
 Hi there!
 
-You can find the answers for the provided test tasks in the <b>"script.js"</b> and <b>"styles.css"</b> files.<br>
+You can find the answers for the provided test tasks in the <b>"script.js"</b> and <b>"style.css"</b> files.<br>
 Each solution is commented with a task number so that you could see clear which task it corresponds to.<br>
 
 Moreover I've prepared the index.html file for easier testing.
