@@ -1,0 +1,6 @@
+/* Test 1 solution */
+/* You can open index.html in a browser and see the "Test 1" block there. */
+.container p:nth-child(3) {
+    color: red;
+    background: black;
+}
